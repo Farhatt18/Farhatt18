@@ -4,7 +4,7 @@
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/farhat-sumaiya-4704b11a3/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://farhatt18.github.io/Portfolio/)">
+  <a href="https://farhatt18.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=circle&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
