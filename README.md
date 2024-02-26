@@ -34,6 +34,8 @@
   </a>
 </div>
 
+### Most Used Langugages: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhatt18)](https://github.com/farhatt18/github-readme-stats)
 
 
 
