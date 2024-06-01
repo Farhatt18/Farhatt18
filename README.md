@@ -25,7 +25,7 @@ I am a full stack developer dedicated to creating user-friendly websites and app
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>&nbsp;
 </div>
 
-### Connect with Me!!
+### Connect with Me!
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/farhat-sumaiya-4704b11a3/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
