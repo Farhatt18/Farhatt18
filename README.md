@@ -42,6 +42,7 @@ I am a full stack developer dedicated to creating user-friendly websites and app
 </div>
 
 ### Most Used Langugages: 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhatt18)](https://github.com/farhatt18/github-readme-stats)
 
 
