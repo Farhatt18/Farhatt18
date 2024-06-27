@@ -28,6 +28,7 @@ I am a full stack developer dedicated to creating user-friendly websites and app
 </div>
 
 ### Connect with Me!
+
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/farhat-sumaiya-4704b11a3/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
