@@ -7,7 +7,6 @@ I am a full stack developer dedicated to creating user-friendly websites and app
 
 
 
-
 ### :hammer_and_wrench: Languages and Tools :
 <div id="badges">
   
