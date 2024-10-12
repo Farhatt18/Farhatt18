@@ -28,7 +28,6 @@ I am a full stack developer dedicated to creating user-friendly websites and app
 </div>
 
 
-
 ### Connect with Me!
 
 <div id="badges">
