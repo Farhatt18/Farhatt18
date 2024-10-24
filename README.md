@@ -2,8 +2,6 @@
 
 ## :woman_technologist: About Me :
 
-
-
 I am a full stack developer dedicated to creating user-friendly websites and applications while constantly learning and adapting to new technologies.
 
 
