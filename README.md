@@ -26,7 +26,6 @@ I am a full stack developer dedicated to creating user-friendly websites and app
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>&nbsp;
 </div>
 
-
 ### Connect with Me!
 
 <div id="badges">
