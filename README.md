@@ -6,7 +6,7 @@ I am a full stack developer dedicated to creating user-friendly websites and app
 
 ### :hammer_and_wrench: Languages and Tools :
 <div id="badges">
-
+  
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp;
